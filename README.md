@@ -21,7 +21,26 @@ today I've learned
 - R의 기본문법인 연산자, 데이터의 생성, 유형, 속성 등을 다루고, 외부데이터를 읽어오고 저장하는 과정을 다룬 기본적인 코드.
 
 ### 02Lecture.R
+- 데이터 분석의 사전 단계로, 데이터 분석에 맞게 "데이터 핸들링" 또는 "데이터 전처리"를 하는 과정을 다룬 코드.
 - 
 
+> 데이터 핸들링에 유용한 패키지인 "tidyverse" (총 8개의 패키지로 구성)
+> 1. dplyr : data handling and analysis
+> 2. ggplot2 : grammar of graph
+> 3. readr : 데이터 읽어오기
+> 4. tidyr : data shape handling
+> 5. purrr : 반복작업에 뛰어남
+> 6. stringr : text mining 전처리 단계
+> 7. tibble
+> 8. forcats
+
+
+### 03EDA.R
+- 탐색적 데이터 분석(EDA ; Exploratory Data Analysis)
+- 
+
+### 04CorrelationRegression.R
+- 상관분석, 회귀분석 등
+- 
 
 
