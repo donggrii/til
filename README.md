@@ -25,7 +25,7 @@ today I've learned
 - 2차원 형태 데이터의 구조, 속성 등을 알아본다.
 - dplyr, stringr 패키지를 활용하여 데이터를 다루는 방법.
 
-<center><img src="https://user-images.githubusercontent.com/54230911/100350638-894b3100-302d-11eb-9167-76f2290ae960.jpg" width="65%"></center> 
+<img src="https://user-images.githubusercontent.com/54230911/100350638-894b3100-302d-11eb-9167-76f2290ae960.jpg" width="65%">
 <img src="https://user-images.githubusercontent.com/54230911/100351059-2c03af80-302e-11eb-8b5f-6fe9b39a7e74.jpg" width="65%">
 <img src="https://user-images.githubusercontent.com/54230911/100351102-40e04300-302e-11eb-9659-610682501018.jpg" width="65%">
 <img src="https://user-images.githubusercontent.com/54230911/100351141-4f2e5f00-302e-11eb-838b-8e62f41635ff.jpg" width="80%">
