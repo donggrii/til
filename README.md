@@ -41,7 +41,7 @@ today I've learned
 
 
 ### 03EDA.R
-- 탐색적 데이터 분석(EDA ; Exploratory Data Analysis) : 표, 그래프를 보고 데이터가 뭘 의미하는지 끄집어내는 단계로 매우 중요한 단계!! (★★★)
+- 탐색적 데이터 분석(EDA ; Exploratory Data Analysis) : 표, 그래프를 보고 데이터가 뭘 의미하는지 끄집어내는 단계로 매우 중요한 단계(★★★)
 
 1. 일변량(Uni-variate) 질적 자료의 분석
 2. 일변량 양적 자료의 분석
@@ -50,7 +50,11 @@ today I've learned
 
 
 ### 04CorrelationRegression.R
-- 상관분석, 회귀분석 등
-- 
+1. 상관분석
+- 산점도
+- 산점행렬도
+- 상관계수
+- 가설검정
+2. 회귀분석 : 1 ~ 5단계
 
 
