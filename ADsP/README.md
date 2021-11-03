@@ -7,8 +7,11 @@
 ## 7장. 통계분석
 
 2. 기초 통계분석
-
+3. 다변량분석
+4. 시계열 예측
 
 ## 8장. 정형 데이터 마이닝
 
-2. 분류분석
+2. 분류분석(Classification)
+3. 군집분석(Clustering)
+4. 연관분석(Association Analysis)
