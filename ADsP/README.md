@@ -1,3 +1,5 @@
+<img width="500" height="600" alt="ADsP 2020" src="https://user-images.githubusercontent.com/54230911/142000548-80273f00-fc3b-46fa-a95e-bd1498bbf981.jpg">
+
 ## 6장. R 기초와 데이터 마트
 
 1. R 기초
